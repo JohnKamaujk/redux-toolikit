@@ -2,27 +2,11 @@
 
 #### React Course
 
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
-
-#### Support
-
-Find the App Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
+[My React Course]
 
 #### Docs
 
 [Redux Toolkit Docs](https://redux-toolkit.js.org/introduction/getting-started)
-
-#### Install Template
-
-```sh
-npx create-react-app my-app --template redux
-```
-
-- @latest
-
-```sh
-npx create-react-app@latest my-app --template redux
-```
 
 #### Existing App
 
@@ -726,4 +710,9 @@ const cartSlice = createSlice({
       });
   },
 });
+```
+```installing this project into your machine
+*git clone this repo into your machine
+*Open the directory & npm install all dependencies
+*npm start to run this project in your localhost
 ```

@@ -1,8 +1,7 @@
 # Redux Toolkit
 
-#### React Course
+#### React Redux Toolkit
 
-[My React Course]
 
 #### Docs
 
@@ -584,9 +583,9 @@ const Modal = () => {
 export default Modal;
 ```
 
-
-```installing this project into your machine
 # installing this project into your machine
+```installing this project into your machine
+
 *git clone this repo into your machine
 *Open the directory & npm install all dependencies
 *npm start to run this project in your localhost
